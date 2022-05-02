@@ -1,6 +1,6 @@
 # Mein tolles neues Repo
 
+Das ist der Text der hier her kommt.
 
-Hier kommt noch text hin
 
 Hier geschieht ein Wunder.
